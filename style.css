@@ -9,3 +9,17 @@ body {
     text-align: center;
     font-family: orkney;
 }
+
+div {
+    border-radius: 2px;
+    border-color: lightblue;
+    border-style: double;
+}
+
+.act {
+    width: 98%;
+    margin: 0.2%;
+    background-color: black;
+    border-color: lightblue;
+    color: lightblue;
+}
